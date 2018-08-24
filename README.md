@@ -1,2 +1,3 @@
 # hello_world
-Just new repository
+Hello everyboby!
+YC here. I want to learn how to programming.
